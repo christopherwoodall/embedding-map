@@ -3,3 +3,5 @@ torch
 umap-learn
 matplotlib
 numpy
+bitsandbytes
+accelerate
