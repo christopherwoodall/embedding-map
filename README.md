@@ -1,6 +1,8 @@
 # Embedding Map
 Embedding Map for Gemma 2 2B
 
+![Embedding Map](embedding_map.png)
+
 
 ## Getting Started
 
